@@ -1,0 +1,19 @@
+# Large datasets and Excel raw dumps
+*.xlsx
+*.xls
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
